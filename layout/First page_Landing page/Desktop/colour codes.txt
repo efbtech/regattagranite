@@ -1,0 +1,3 @@
+69717C - lower colour
+858D98 - 2nd lower colour
+F9F9F9 - grey - block colour 
